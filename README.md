@@ -8,4 +8,4 @@ The file listed below contains code for power simulations presented in Storch et
 
 * <mark>Marked text</mark>
 
-* ==FaulknerCmntPwr.r==
+* ```FaulknerCmntPwr.```
