@@ -6,4 +6,6 @@ The file listed below contains code for power simulations presented in Storch et
 
 * <span style="background-color: #FFFF00">FaulknerCmntPwr.r</span>
 
+* <mark>Marked text</mark>
+
 * ==FaulknerCmntPwr.r==
