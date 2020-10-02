@@ -6,4 +6,4 @@ The file listed below (active link) contains code for power simulations presente
 
 * ```FaulknerCmntPwr.r```
 
-* [a link](https://github.com/FishPC/FaulknerReview/blob/main/readmetest)
+* [FaulknerCmntPwr.r](https://github.com/FishPC/FaulknerReview/blob/main/readmetest)
