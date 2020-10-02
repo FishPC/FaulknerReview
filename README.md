@@ -6,4 +6,4 @@ The file listed below contains code for power simulations presented in Storch et
 
 * ```FaulknerCmntPwr.r```
 
-* [a link](https://github.com/FishPC/FaulknerReview/blob/main/readmetest)
+* ```[a link](https://github.com/FishPC/FaulknerReview/blob/main/readmetest)```
