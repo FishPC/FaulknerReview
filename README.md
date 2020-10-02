@@ -4,4 +4,4 @@ Code and data for Storch et al. (in review); "Comment: Association among fish le
 # R Code
 The file listed below contains code for power simulations presented in Storch et al. (in review).  Code and data for all other analyses are available upond request to the corresponding author.
 
-* <kbd>⌘F</kbd>
+* <kbd>FaulknerCmntPwr</kbd>
