@@ -4,5 +4,5 @@ Code and data for Storch et al. (*in review*); "Comment: Associations among fish
 ## R Code
 The file listed below (active link) contains code for power simulations presented in Storch et al. (*in review*).  Code and data for all other analyses are available upon request to the corresponding author.
 
-* [FaulknerCmntPwr_chinook.r](https://github.com/FishPC/FaulknerReview/blob/main/readmetest) test
+* [FaulknerCmntPwr_chinook.r](https://github.com/FishPC/FaulknerReview/blob/main/readmetest):  this version of the code requires
 * [FaulknerCmntPwr_steelhead.r](https://github.com/FishPC/FaulknerReview/blob/main/readmetest)
