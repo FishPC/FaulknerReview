@@ -6,7 +6,7 @@ The files listed below (active links) contains code for power simulations presen
 
 * [FaulknerCmntPwr_chinook.R](https://github.com/FishPC/FaulknerReview/blob/main/FaulknerCmntPwr_chinook.R):  this version of the code requires manual adjustment of certain parameters (i.e., "ss.multiplier" and "sims").  At small simulation sizes, output may vary slightly among runs at a given sample size multiplier ("ss.multiplier").
 
-* [FaulknerCmntPwr_chinookParallel.R](https://github.com/FishPC/FaulknerReview/blob/main/FaulknerCmntPwr_chinook.R):  this version consolidates "FaulknerCmntPwr_chinook.r" and allows for parallel processing. At small simulation sizes, output may vary slightly among runs at a given sample size multiplier ("ss.multiplier").
+* [FaulknerCmntPwr_chinookParallel.R](https://github.com/FishPC/FaulknerReview/blob/main/FaulknerCmntPwr_chinookParallel.R):  this version consolidates "FaulknerCmntPwr_chinook.r" and allows for parallel processing. At small simulation sizes, output may vary slightly among runs at a given sample size multiplier ("ss.multiplier").
 
 * [FaulknerCmntPwr_steelhead.R](https://github.com/FishPC/FaulknerReview/blob/main/FaulknerCmntPwr_steelhead.R):  this version of the code requires manual adjustment of certain parameters (i.e., "ss.multiplier" and "sims").  At small simulation sizes, output may vary slightly among runs at a given sample size multiplier ("ss.multiplier").
 
